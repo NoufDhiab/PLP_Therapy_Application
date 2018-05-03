@@ -1,0 +1,64 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/Nouf/Downloads/YYYYAAAAY_export-1/bt/C:\\Users\\gg\\Desktop\\New folder (2)\\YYYYAAAAY_export\\bt\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-vi\\values-vi.xml",
+            "map": [
+                {
+                    "source": "/Users/Nouf/Downloads/YYYYAAAAY_export-1/bt/C:\\Users\\gg\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\2dfbd0cd574e27af413a148809b17fa8\\res\\values-vi\\values-vi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/Nouf/Downloads/PLP_THERAPY/bt/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-vi/values-vi.xml",
+            "map": [
+                {
+                    "source": "/Users/Nouf/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/161a4713e0bd37b1e0bb4a2f36c0127f/res/values-vi/values-vi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/Nouf/PLP_THERAPY/bt/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-vi/values-vi.xml",
+            "map": [
+                {
+                    "source": "/Users/Nouf/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/161a4713e0bd37b1e0bb4a2f36c0127f/res/values-vi/values-vi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/Nouf/Downloads/YYYYAAAAY_export-1/bt/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-vi/values-vi.xml",
+            "map": [
+                {
+                    "source": "/Users/Nouf/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/161a4713e0bd37b1e0bb4a2f36c0127f/res/values-vi/values-vi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

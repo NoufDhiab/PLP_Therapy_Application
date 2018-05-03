@@ -1,0 +1,259 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:2:1-106:12
+INJECTED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:2:1-106:12
+INJECTED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:2:1-106:12
+INJECTED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:2:1-106:12
+MERGED from [:VuforiaWrapper:] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/984174281f2b645c4d55f3ce9f8a70d9/AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/d6f74048fdddd129858ec2d91f7e1798/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/d18488e37c6502c7236d182218b285de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/566c2df5821a75d509d33b244192c636/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/2e25e6ed9f4cf3ec017d36a02ae08a75/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b8ba7e11488cee5953030b43c81bf7d7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/161a4713e0bd37b1e0bb4a2f36c0127f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/801b99dd1c76149b0ac26ec464fd7f1e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d40516fed5a9640e4c10742717671d27/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/1955c6781c0d9c4602e03c26c62f4e44/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3a151033850098c9d253e1116489b899/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:2:1-106:12
+INJECTED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:2:1-106:12
+INJECTED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:2:1-106:12
+	package
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:4:5-29
+		INJECTED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml
+		INJECTED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:7:5-30
+		INJECTED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml
+		INJECTED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:6:5-28
+		INJECTED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml
+		INJECTED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:5:5-45
+uses-sdk
+ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:9:5-11:41
+INJECTED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:9:5-11:41
+MERGED from [:VuforiaWrapper:] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/984174281f2b645c4d55f3ce9f8a70d9/AndroidManifest.xml:8:5-10:41
+MERGED from [:VuforiaWrapper:] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/984174281f2b645c4d55f3ce9f8a70d9/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-v4:27.1.1] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/d6f74048fdddd129858ec2d91f7e1798/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/d6f74048fdddd129858ec2d91f7e1798/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/d18488e37c6502c7236d182218b285de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/d18488e37c6502c7236d182218b285de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/566c2df5821a75d509d33b244192c636/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/566c2df5821a75d509d33b244192c636/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/2e25e6ed9f4cf3ec017d36a02ae08a75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/2e25e6ed9f4cf3ec017d36a02ae08a75/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b8ba7e11488cee5953030b43c81bf7d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b8ba7e11488cee5953030b43c81bf7d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/161a4713e0bd37b1e0bb4a2f36c0127f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/161a4713e0bd37b1e0bb4a2f36c0127f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/801b99dd1c76149b0ac26ec464fd7f1e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/801b99dd1c76149b0ac26ec464fd7f1e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d40516fed5a9640e4c10742717671d27/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/d40516fed5a9640e4c10742717671d27/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/1955c6781c0d9c4602e03c26c62f4e44/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/1955c6781c0d9c4602e03c26c62f4e44/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3a151033850098c9d253e1116489b899/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3a151033850098c9d253e1116489b899/AndroidManifest.xml:20:5-44
+INJECTED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:9:5-11:41
+	android:targetSdkVersion
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:11:9-38
+		INJECTED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml
+		INJECTED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:10:9-35
+supports-screens
+ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:13:5-18:40
+	android:largeScreens
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:15:9-36
+	android:smallScreens
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:17:9-36
+	android:normalScreens
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:16:9-37
+	android:xlargeScreens
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:18:9-37
+	android:anyDensity
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:14:9-34
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:20:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:21:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:22:5-74
+	android:name
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:22:22-71
+uses-feature#0x00020000
+ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:24:5-54
+	android:glEsVersion
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:24:19-51
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:26:5-67
+MERGED from [:VuforiaWrapper:] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/984174281f2b645c4d55f3ce9f8a70d9/AndroidManifest.xml:14:5-67
+MERGED from [:VuforiaWrapper:] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/984174281f2b645c4d55f3ce9f8a70d9/AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:26:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:27:5-65
+MERGED from [:VuforiaWrapper:] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/984174281f2b645c4d55f3ce9f8a70d9/AndroidManifest.xml:15:5-65
+MERGED from [:VuforiaWrapper:] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/984174281f2b645c4d55f3ce9f8a70d9/AndroidManifest.xml:15:5-65
+	android:name
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:27:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:29:5-31:36
+MERGED from [:VuforiaWrapper:] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/984174281f2b645c4d55f3ce9f8a70d9/AndroidManifest.xml:12:5-60
+MERGED from [:VuforiaWrapper:] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/984174281f2b645c4d55f3ce9f8a70d9/AndroidManifest.xml:12:5-60
+	android:required
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:31:9-33
+		MERGED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:31:9-33
+	android:name
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:30:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:32:5-34:36
+	android:required
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:34:9-33
+	android:name
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:33:9-57
+uses-feature#android.hardware.camera.front
+ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:35:5-37:36
+	android:required
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:37:9-33
+	android:name
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:36:9-53
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:38:5-40:36
+	android:required
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:40:9-33
+	android:name
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:39:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:41:5-43:36
+	android:required
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:43:9-33
+	android:name
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:42:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:44:5-46:36
+	android:required
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:46:9-33
+	android:name
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:45:9-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:48:5-81
+MERGED from [:VuforiaWrapper:] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/984174281f2b645c4d55f3ce9f8a70d9/AndroidManifest.xml:17:5-81
+MERGED from [:VuforiaWrapper:] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/984174281f2b645c4d55f3ce9f8a70d9/AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:48:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:49:5-75
+	android:name
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:49:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:50:5-80
+	android:name
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:50:22-77
+uses-permission#com.android.alarm.permission.SET_ALARM
+ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:54:5-94
+	android:name
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:54:22-75
+application
+ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:58:5-104:19
+MERGED from [:VuforiaWrapper:] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/984174281f2b645c4d55f3ce9f8a70d9/AndroidManifest.xml:19:5-25:19
+MERGED from [:VuforiaWrapper:] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/984174281f2b645c4d55f3ce9f8a70d9/AndroidManifest.xml:19:5-25:19
+	android:label
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:62:9-41
+	android:debuggable
+		ADDED from [:VuforiaWrapper:] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/984174281f2b645c4d55f3ce9f8a70d9/AndroidManifest.xml:19:18-44
+	android:icon
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:60:9-42
+	android:banner
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:59:9-46
+	android:theme
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:63:9-50
+	android:isGame
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:61:9-30
+activity#com.project.bt.UnityPlayerActivity
+ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:64:9-80:20
+	android:screenOrientation
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:70:13-51
+	android:label
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:67:13-45
+	android:launchMode
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:69:13-44
+	android:configChanges
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:66:13-194
+	android:name
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:65:13-48
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:71:13-75:29
+action#android.intent.action.MAIN
+ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:72:17-69
+	android:name
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:72:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:74:17-77
+	android:name
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:74:27-74
+meta-data#unityplayer.UnityActivity
+ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:77:13-79:40
+	android:value
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:79:17-37
+	android:name
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:78:17-57
+activity#com.techtweaking.bluetoothcontroller.ForwardingActivity
+ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:82:9-84:46
+	android:background
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:84:13-43
+	android:name
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:83:13-83
+meta-data#unity.build-id
+ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:86:9-88:68
+	android:value
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:88:13-65
+	android:name
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:87:13-42
+meta-data#unity.splash-mode
+ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:89:9-91:33
+	android:value
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:91:13-30
+	android:name
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:90:13-45
+meta-data#unity.splash-enable
+ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:92:9-94:36
+	android:value
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:94:13-33
+	android:name
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:93:13-47
+meta-data#android.max_aspect
+ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:95:9-97:35
+	android:value
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:97:13-32
+	android:name
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:96:13-46
+activity#com.project.bt.AboutUs
+ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:99:9-54
+	android:name
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:99:19-42
+receiver#com.project.bt.Notification_reciever
+ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:103:9-68
+	android:name
+		ADDED from /Users/Nouf/PLP_THERAPY/bt/src/main/AndroidManifest.xml:103:19-56
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:VuforiaWrapper:] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/984174281f2b645c4d55f3ce9f8a70d9/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from [:VuforiaWrapper:] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/984174281f2b645c4d55f3ce9f8a70d9/AndroidManifest.xml:16:22-76
+uses-library#com.osterhoutgroup.api.ext
+ADDED from [:VuforiaWrapper:] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/984174281f2b645c4d55f3ce9f8a70d9/AndroidManifest.xml:22:9-24:40
+	android:required
+		ADDED from [:VuforiaWrapper:] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/984174281f2b645c4d55f3ce9f8a70d9/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [:VuforiaWrapper:] /Users/Nouf/.gradle/caches/transforms-1/files-1.1/VuforiaWrapper.aar/984174281f2b645c4d55f3ce9f8a70d9/AndroidManifest.xml:23:13-54

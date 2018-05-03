@@ -1,0 +1,64 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/Nouf/PLP_THERAPY/bt/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/Users/Nouf/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/d18488e37c6502c7236d182218b285de/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/Nouf/Downloads/YYYYAAAAY_export-1/bt/C:\\Users\\gg\\Desktop\\New folder (2)\\YYYYAAAAY_export\\bt\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v24\\values-v24.xml",
+            "map": [
+                {
+                    "source": "/Users/Nouf/Downloads/YYYYAAAAY_export-1/bt/C:\\Users\\gg\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\b71f9f5ee2dc6e4a34560b2127cf9990\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/Nouf/Downloads/YYYYAAAAY_export-1/bt/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/Users/Nouf/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/d18488e37c6502c7236d182218b285de/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/Nouf/Downloads/PLP_THERAPY/bt/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v24/values-v24.xml",
+            "map": [
+                {
+                    "source": "/Users/Nouf/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/d18488e37c6502c7236d182218b285de/res/values-v24/values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    }
+                }
+            ]
+        }
+    ]
+}

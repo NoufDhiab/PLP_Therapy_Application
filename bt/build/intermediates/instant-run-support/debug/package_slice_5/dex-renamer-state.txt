@@ -1,0 +1,4 @@
+#Mon Apr 23 16:51:08 AST 2018
+base.0=C\:\\Users\\gg\\Desktop\\New folder (2)\\YYYYAAAAY_export\\bt\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex
